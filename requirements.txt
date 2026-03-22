@@ -1,3 +1,5 @@
+python_version==3.11
+
 streamlit
 ultralytics
 pandas
