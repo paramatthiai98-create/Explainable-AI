@@ -1,8 +1,7 @@
-python_version==3.11
-
-streamlit
-ultralytics
+streamlit==1.32.0
+ultralytics==8.0.221
 pandas
 numpy
 opencv-python-headless==4.9.0.80
 streamlit-autorefresh
+Pillow
